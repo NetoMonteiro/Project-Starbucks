@@ -12,9 +12,9 @@ Amateur project to test my developing skills
 
 <img src=".github/project1.png" width="908" height="auto">
 <p float="left">
-<img src=".github/mobile2.png" width="200" height="auto">
-<img src=".github/mobile3.png" width="200" height="auto">
-<img src=".github/mobile1.png" width="200" height="auto">
+<img src=".github/mobile2.png" width="250" height="auto">
+<img src=".github/mobile3.png" width="250" height="auto">
+<img src=".github/mobile1.png" width="250" height="auto">
 </p>
 
 ## 💻 Made with
